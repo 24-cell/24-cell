@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I’m Ksenija
 
-<!--
-**24-cell/24-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior AI/ML specialist.
+Areas of interest: deep learning, NLP, and applied data science.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  My Toolkit
+
+| Category | Tools |
+|---|---|
+| **Languages** | `Python`, `SQL`|
+| **Dev Environment** |`Git`, `GitHub`, `Docker`, `Streamlit`, `Pytorch`, `Conda`|
+| **Data & ML** | `Pandas`, `NumPy`, `Matplotlib` |
+|**Deep Learning**| `Pytorch`, `Keras`,  `Scikit-learn` |
+|**NLP**| `NLTK`, `spaCy`, `transformers`, `Hugging Face`, `LLM fine-tuning` |
+
+---
+
+##  Get In Touch
+
+- **Telegram:** @days_qwerty
+- **Discuss a Project:** Open an issue in my [personal repo](https://github.com/24-cell/24-cell/issues)
