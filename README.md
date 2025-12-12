@@ -13,7 +13,8 @@ Areas of interest: deep learning, NLP, and applied data science.
 | **Dev Environment** |`Git`, `GitHub`, `Docker`, `Streamlit`, `Pytorch`, `Conda`|
 | **Data & ML** | `Pandas`, `NumPy`, `Matplotlib` |
 |**Deep Learning**| `Pytorch`, `Keras`,  `Scikit-learn` |
-|**NLP**| `NLTK`, `spaCy`, `transformers`, `Hugging Face`, `LLM fine-tuning` |
+|**NLP**| `NLTK`, `spaCy`, `transformers`, `Hugging Face` |
+|**CV**| `YOLO` |
 
 ---
 
